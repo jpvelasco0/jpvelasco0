@@ -5,7 +5,7 @@
 </div><br/>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jpvelasco0&show_icons=true&count_private=true&hide_border=true&title_color=06770B&icon_color=06770B&text_color=c9d1d9&bg_color=000000" alt="Eduardo Valente github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jpvelasco0&show_icons=true&count_private=true&hide_border=true&title_color=06770B&icon_color=06070B&text_color=c9d1d9&bg_color=000000" alt="Eduardo Valente github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpvelasco0&layout=compact&hide_border=true&title_color=06770B&text_color=06770B&bg_color=000000" />
 </div>
 
@@ -28,7 +28,7 @@
 Apaixonado por tecnologia, atualmente cursando ciência da computação, busco desenvolver minhas habilidades em desenvolvimento de sistemas.
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Visitantes: </b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{jpvelasco0}/count.svg" /></p> 
 <br></div>
 
